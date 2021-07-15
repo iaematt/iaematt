@@ -1,4 +1,4 @@
-# Olá 🎮 , sou Matheus! :D
+# Olá 😎, sou _Matheus_!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iaematt/)](https://www.linkedin.com/in/iaematt/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iaematt)](https://github.com/iaematt)
@@ -6,8 +6,9 @@
 
 ### Sobre
 
-Olá, me chamo Matheus, sou programado a vários anos; sou Full Stack, porém estudo constantemente para melhorar conhecimentos.
+Olá, sou _Matheus_, sou programador a vários anos usando técnologias como o PHP; sou Full Stack, porém estou constantemente estudando para melhorar meus conhecimentos e entregar produtos melhores. 😉
 
-- [Blog](https://blogdomat.vercel.app/) ✍🏼 - Blog minimalistas, com tutoriais;
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iaematt&show_icons=true&theme=material-palenight)](https://github.com/iaematt/github-readme-stats)
+### Social
+- Blog: https://blogdomat.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/iaematt/
+- Instagram: https://instagram.com/iaematt_
