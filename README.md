@@ -1,14 +1,9 @@
+[![GitHub](http://img.shields.io/badge/github-@iaematt-black.svg?style=flat-square)](https://github.com/iaematt)
+[![Linkedin](http://img.shields.io/badge/linkedin-@iaematt-blue.svg?style=flat-square)](https://linkedin.com/in/iaematt)
+[![Twitter](http://img.shields.io/badge/twitter-@tipandovariavel-blue.svg?style=flat-square)](https://twitter.com/tipandovariavel)
+
 # Olá 😎, sou _Matheus_!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iaematt/)](https://www.linkedin.com/in/iaematt/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iaematt)](https://github.com/iaematt)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iaematt_)](https://instagram.com/iaematt_)
+Iae, tudo beleza? Bem-vindo(a) ao meu perfil no GitHub, sou _Matheus_, programador full stack php;
 
-### Sobre
-
-Olá, sou _Matheus_, sou programador a vários anos usando técnologias como o PHP; sou Full Stack, porém estou constantemente estudando para melhorar meus conhecimentos e entregar produtos melhores. 😉
-
-### Social
-- Blog: https://blogdomat.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/iaematt/
-- Instagram: https://instagram.com/iaematt_
+#### Hi, you ok? Welcome my profile. I'm Matheus, developer full stack php.
